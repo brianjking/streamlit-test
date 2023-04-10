@@ -1,0 +1,9 @@
+gradio
+torch
+pillow
+pandas
+transformers>=4.17.0
+salesforce-lavis
+tensorflow
+tensorflow_hub
+scikit-learn
